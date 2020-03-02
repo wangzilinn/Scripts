@@ -9,14 +9,15 @@
 
 # 统计Git库一周代码量
 
-## Source:
-[Source](https://github.com/wangzilinn/Scripts/tree/master/code_statistic)
-
 项目组内要求每周汇报自己所管理的库的代码情况 这个脚本可以直接统计 比CSDN上面的不知道高到哪里去了
 
 写这个的目的主要是每周要交工作总结,需要统计代码量
 
 > Note: CSDN上的git代码量统计都是一堆代码, 能用但不可读,  因此写了这个可读性很强, 可以充分自定义的脚本, 用于统计代码
+
+## Source:
+
+[Source](https://github.com/wangzilinn/Scripts/tree/master/code_statistic)
 
 ## 使用方法:
 
@@ -135,12 +136,12 @@ python3.6
 
 ### 原始文件夹:
 
-![image](https://https://github.com/wangzilinn/Scripts/blob/master/chrome_download_file_name_garbled_solution/img/%E7%A4%BA%E4%BE%8B_%E5%AD%98%E6%94%BE%E4%B9%B1%E7%A0%81%E6%96%87%E4%BB%B6%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9.JPG)
+![image](https://github.com/wangzilinn/Scripts/blob/master/chrome_download_file_name_garbled_solution/img/%E7%A4%BA%E4%BE%8B_%E5%AD%98%E6%94%BE%E4%B9%B1%E7%A0%81%E6%96%87%E4%BB%B6%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9.JPG)
 
 ### 使用转换脚本:
 
 分别输入文件夹路径及要转换的文件拓展名
-![image](https://https://github.com/wangzilinn/Scripts/blob/master/chrome_download_file_name_garbled_solution/img/%E7%A4%BA%E4%BE%8B_%E6%93%8D%E4%BD%9C%E8%BF%87%E7%A8%8B.JPG)
+![image](https://github.com/wangzilinn/Scripts/blob/master/chrome_download_file_name_garbled_solution/img/%E7%A4%BA%E4%BE%8B_%E6%93%8D%E4%BD%9C%E8%BF%87%E7%A8%8B.JPG)
 
 ### 运行结果:
 
