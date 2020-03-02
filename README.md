@@ -143,14 +143,14 @@ python3.6
 
 #### 原始文件夹:
 
-![image](https://github.com/wangzilinn/chrome_download_file_name_garbled_solution/blob/master/%E7%A4%BA%E4%BE%8B_%E5%AD%98%E6%94%BE%E4%B9%B1%E7%A0%81%E6%96%87%E4%BB%B6%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9.JPG)
+![image](https://https://github.com/wangzilinn/Scripts/blob/master/chrome_download_file_name_garbled_solution/img/%E7%A4%BA%E4%BE%8B_%E5%AD%98%E6%94%BE%E4%B9%B1%E7%A0%81%E6%96%87%E4%BB%B6%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9.JPG)
 
 #### 使用转换脚本:
 
 分别输入文件夹路径及要转换的文件拓展名
-![image](https://github.com/wangzilinn/chrome_download_file_name_garbled_solution/blob/master/%E7%A4%BA%E4%BE%8B_%E6%93%8D%E4%BD%9C%E8%BF%87%E7%A8%8B.JPG)
+![image](https://https://github.com/wangzilinn/Scripts/blob/master/chrome_download_file_name_garbled_solution/img/%E7%A4%BA%E4%BE%8B_%E6%93%8D%E4%BD%9C%E8%BF%87%E7%A8%8B.JPG)
 
 #### 运行结果:
 
-![image](https://github.com/wangzilinn/chrome_download_file_name_garbled_solution/blob/master/%E7%A4%BA%E4%BE%8B_%E8%BD%AC%E7%A0%81%E7%BB%93%E6%9E%9C.JPG)
+![image](https://github.com/wangzilinn/Scripts/blob/master/chrome_download_file_name_garbled_solution/img/%E7%A4%BA%E4%BE%8B_%E8%BD%AC%E7%A0%81%E7%BB%93%E6%9E%9C.JPG)
 
