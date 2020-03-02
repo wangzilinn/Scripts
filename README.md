@@ -8,6 +8,8 @@
   * [修复Chrome下载文件乱码问题](#修复Chrome下载文件乱码问题)
 
 # 统计Git库一周代码量
+
+## Source:
 [Source](https://github.com/wangzilinn/Scripts/tree/master/code_statistic)
 
 项目组内要求每周汇报自己所管理的库的代码情况 这个脚本可以直接统计 比CSDN上面的不知道高到哪里去了
@@ -39,6 +41,8 @@ Total lines: 401
 # 将中文数字字符串转为阿拉伯数字字符串
 
 将字符串中的所有中文数字转为阿拉伯数字,如"第三万亿零五千章"转为"第3000000005000章"
+
+## Source:
 
 [Source](https://github.com/wangzilinn/Scripts/tree/master/format_Chinese_numeral_to_Arabic)
 
@@ -114,6 +118,8 @@ Total lines: 401
 # 修复Chrome下载文件乱码问题
 
 chrome下载中文文件名经常有乱码的情况(尤其是从知网下载的论文), 写了个脚本把乱码转换成人话
+
+## Source:
 
 [Source](https://github.com/wangzilinn/Scripts/tree/master/chrome_download_file_name_garbled_solution)
 
