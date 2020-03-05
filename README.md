@@ -1,9 +1,10 @@
 # Scripts
 
-收集方便工作的各种脚本
+自己编写的方便工作的各种脚本
 
 - [Scripts](#scripts)
   * [统计Git库一周代码量](#统计Git库一周代码量)
+  * [为有道文档翻译拆分PDF](#为有道文档翻译拆分PDF)
   * [将中文数字字符串转为阿拉伯数字字符串](#将中文数字字符串转为阿拉伯数字字符串)
   * [修复Chrome下载文件乱码问题](#修复Chrome下载文件乱码问题)
 
@@ -45,13 +46,13 @@ Total lines: 401
 这个脚本可以将很长的pdf均匀的拆分为4页的长度, 这样再翻译就直接拖进去已经被拆分好的小pdf就好了.
 
 ## Source:
-[source]()
+[source](https://github.com/wangzilinn/Scripts/tree/master/split_pdf)
 
-## 使用方法:## 
+## 使用方法:
 
 直接运行该脚本可以将示例中文件夹中的test.pdf拆分为多个, 每个4页的子pdf.
 
-## 依赖:##
+## 依赖:
 
 PyPDF2 pip导入即可
 
